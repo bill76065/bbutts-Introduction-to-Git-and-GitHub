@@ -13,4 +13,7 @@ Output
    simple interest = p*t*r
 ```
 
+Bug Fix:
+	fixed a bug on the calculation
+
 _© 2022 XYZ, Inc._
